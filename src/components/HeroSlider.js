@@ -37,11 +37,11 @@ function HeroSlider() {
     <section
       style={{
         position: 'relative',
-        height: '400px',
-        margin: '1.5rem 0 2rem',
-        border: '4px solid #e63631',
-        borderRadius: '12px',
-        overflow: 'hidden'
+        height: '400px', // Height of the hero section
+        margin: '1.5rem 0 2rem', // Add a gap from the header
+        border: '4px solid #e63631', // Add a red border to match the brand
+        borderRadius: '12px', // Rounded corners for the hero section
+        overflow: 'hidden' // Ensure content doesn't overflow the container
       }}
     >
       {/* Loop through the slides and display each one */}
@@ -52,7 +52,7 @@ function HeroSlider() {
             backgroundImage: `url(${slide.image})`, // Set the background image of each slide
             backgroundSize: 'cover', // Ensure the image covers the entire area
             backgroundPosition: 'center', // Center the image
-            transition: 'opacity 0.5s ease-in-out', // Smooth transition 
+            transition: 'opacity 0.5s ease-in-out', // Smooth transition for opacity change
             opacity: currentSlide === index ? 1 : 0, // Only show the current slide
             position: 'absolute',
             width: '100%',
@@ -82,17 +82,17 @@ function HeroSlider() {
           position: 'absolute',
           top: '50%',
           left: '10px',
-          transform: 'translateY(-50%)',
-          background: 'rgba(0,0,0,0.5)',
-          color: 'white',
+          transform: 'translateY(-50%)', // Vertically center the button
+          background: 'rgba(0,0,0,0.5)', // Semi-transparent background
+          color: 'white', // White text color
           border: 'none',
           padding: '10px',
-          cursor: 'pointer',
-          fontSize: '1.5rem',
-          borderRadius: '50%',
+          cursor: 'pointer', // Pointer cursor to indicate clickability
+          fontSize: '1.5rem', // Larger font size for visibility
+          borderRadius: '50%', // Round button shape
         }}
       >
-        ‹{/* Left arrow symbol for previous slide */}
+        ‹ {/* Left arrow symbol for previous slide */}
       </button>
 
       {/* Right Navigation Button (Next Slide) */}
@@ -102,17 +102,17 @@ function HeroSlider() {
           position: 'absolute',
           top: '50%',
           right: '10px',
-          transform: 'translateY(-50%)',
-          background: 'rgba(0,0,0,0.5)',
-          color: 'white',
+          transform: 'translateY(-50%)', // Vertically center the button
+          background: 'rgba(0,0,0,0.5)', // Semi-transparent background
+          color: 'white', // White text color
           border: 'none',
           padding: '10px',
-          cursor: 'pointer',
-          fontSize: '1.5rem',
-          borderRadius: '50%',
+          cursor: 'pointer', // Pointer cursor to indicate clickability
+          fontSize: '1.5rem', // Larger font size for visibility
+          borderRadius: '50%', // Round button shape
         }}
-      
-        ›{/* Right arrow symbol for next slide */}
+      >
+        › {/* Right arrow symbol for next slide */}
       </button>
     </section>
   );
