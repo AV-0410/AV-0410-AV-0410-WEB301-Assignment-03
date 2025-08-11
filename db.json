@@ -1,0 +1,186 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Spider-Man: No Way Home",
+      "poster": "https://m.media-amazon.com/images/I/81T0GmGsrZL.jpg",
+      "landscapePoster": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/12/peter-parker-in-spider-man-no-way-home.jpg",
+      "synopsis": "Spider-Man must confront his past mistakes, as familiar foes from other universes threaten to undo everything he's worked to protect. With the multiverse crashing into his world, Peter Parker must team up with unlikely allies to save the world.",
+      "rentPrice": "3.99",
+      "buyPrice": "14.99"
+    },
+    {
+      "id": 2,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "poster": "https://m.media-amazon.com/images/I/813f5y-8UjL.jpg",
+      "landscapePoster": "https://thethirdfloorinc.com/wp-content/uploads/2022/01/6A_VB2560_previs_v0024-1-1280x720.jpg",
+      "synopsis": "Shang-Chi, a skilled martial artist, must confront his past when he's drawn into the mysterious Ten Rings organization. He discovers the true nature of the family that abandoned him and the power of the Ten Rings.",
+      "rentPrice": "4.99",
+      "buyPrice": "19.99"
+    },
+    {
+      "id": 3,
+      "title": "The Matrix Resurrections",
+      "poster": "https://m.media-amazon.com/images/I/71f5OUZvnrL._UF1000,1000_QL80_.jpg",
+      "landscapePoster": "https://www.framerated.co.uk/frwpcontent/uploads/2021/11/matrix4_poster.jpeg",
+      "synopsis": "Neo has returned to the Matrix, but this time, he must navigate through a world of uncertain realities. Reunited with old allies, he must find the key to unlocking his full potential and battling the new forces controlling the Matrix.",
+      "rentPrice": "3.99",
+      "buyPrice": "14.99"
+    },
+    {
+      "id": 4,
+      "title": "Captain America The First Avenger",
+      "poster": "https://m.media-amazon.com/images/I/71krfsS5kNL._UF1000,1000_QL80_.jpg",
+      "landscapePoster": "https://cdn.mos.cms.futurecdn.net/rNqRoby4d3rr9QCnigVq2B.jpeg",
+      "synopsis": "Steve Rogers transforms from a frail, ill man into the iconic hero known as Captain America. As he leads the fight against Hydra, he discovers that the world needs more than just a hero—it needs a symbol of hope.",
+      "rentPrice": "2.99",
+      "buyPrice": "9.99"
+    },
+    {
+      "id": 5,
+      "title": "Black Widow",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "landscapePoster": "https://wallpapers.com/images/hd/black-widow-stunt-4k-696vbesvgu5c2hsh.jpg",
+      "synopsis": "Natasha Romanoff, after years of hiding from her past, is forced to confront old enemies and family ties. In this thrilling spy adventure, Natasha must face dark secrets and the danger of her enemies, all while uncovering the truth about her origins.",
+      "rentPrice": "3.49",
+      "buyPrice": "12.99"
+    },
+    {
+      "id": 6,
+      "title": "Inception",
+      "poster": "https://i.ebayimg.com/images/g/hX8AAOSwk5FUwoPc/s-l1200.jpg",
+      "landscapePoster": "https://c4.wallpaperflare.com/wallpaper/872/639/807/inception-movie-screenshot-inception-movie-wallpaper-preview.jpg",
+      "synopsis": "A skilled thief, who steals secrets through dream-sharing technology, is given the impossible task of planting an idea into a target's mind. But as the lines between dream and reality blur, he finds himself questioning his own perception of reality.",
+      "rentPrice": "3.99",
+      "buyPrice": "14.99"
+    },
+    {
+      "id": 7,
+      "title": "Dune (2021)",
+      "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "landscapePoster": "https://images.surfacemag.com/app/uploads/2021/10/26180457/dune-2021-remake-02.jpg",
+      "synopsis": "A young nobleman, Paul Atreides, is thrust into a world of betrayal and war on the desert planet Arrakis. As he uncovers the mysteries of his own heritage, he must fight for survival in a war over the universe’s most valuable resource.",
+      "rentPrice": "4.99",
+      "buyPrice": "19.99"
+    },
+    {
+      "id": 8,
+      "title": "The Batman",
+      "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "landscapePoster": "https://media.newyorker.com/photos/62292fc6a5dfad61b91b18ae/master/w_2560%2Cc_limit/Brody-The-Batman.jpg",
+      "synopsis": "Batman uncovers deep corruption within Gotham's elite as he faces a new, dangerous foe. With Gotham City on the brink of destruction, Batman must step into the shadows and protect the innocent from a new wave of criminality.",
+      "rentPrice": "3.99",
+      "buyPrice": "14.99"
+    },
+    {
+      "id": 9,
+      "title": "Joker",
+      "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "landscapePoster": "https://variety.com/wp-content/uploads/2019/10/joker-copy-e1573144284457.jpg?w=1000&h=562&crop=1",
+      "synopsis": "Arthur Fleck, a failed comedian, descends into madness and emerges as the infamous criminal mastermind, Joker. A dark and psychological exploration of how society can create monsters from its broken individuals.",
+      "rentPrice": "3.49",
+      "buyPrice": "12.99"
+    },
+    {
+      "id": 10,
+      "title": "Avatar: The Way of Water",
+      "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "landscapePoster": "https://vfxvoice.com/wp-content/uploads/2018/06/PIX-3-Avatar-Flight-of-Passage-Scene-E.jpg",
+      "synopsis": "The Na’vi return to Pandora’s oceans in this breathtaking sequel, as they uncover new threats and explore deeper parts of their world. As they fight to protect their homes, they are faced with challenges that could change the future of their people.",
+      "rentPrice": "4.99",
+      "buyPrice": "19.99"
+    }
+  ],
+  "tvshows": [
+    {
+      "id": 1,
+      "title": "The Flash",
+      "poster": "https://www.coverwhiz.com/uploads/tv/the-flash-season-1.jpg",
+      "landscapePoster": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/02/the-flash-poster-social-featured.jpg",
+      "synopsis": "Barry Allen, a forensic scientist, becomes The Flash after an accident grants him super-speed abilities. He uses his new powers to fight crime and protect Central City from dangerous threats, while learning about his true destiny.",
+      "rentPrice": "2.99",
+      "buyPrice": "9.99"
+    },
+    {
+      "id": 2,
+      "title": "The Amazing World of Gumball",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmEwYzNhODgtZDc2Yi00MDAyLTliNWYtMDRkMThmMWE0NGNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "landscapePoster": "https://wallpapers.com/images/hd/the-amazing-world-of-gumball-1920-x-1080-wallpaper-232ua4p34rconf08.jpg",
+      "synopsis": "Gumball Watterson and his younger brother Darwin are always in for wild adventures. Whether it's school, family life, or dealing with the strange world around them, Gumball’s antics are always hilarious.",
+      "rentPrice": "1.99",
+      "buyPrice": "7.99"
+    },
+    {
+      "id": 3,
+      "title": "Spongebob",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjJmMjBkZjMtZThiZS00Nzk3LWJlN2UtYmE5ZjkyNjJiZjgxXkEyXkFqcGc@._V1_.jpg",
+      "landscapePoster": "https://i.pinimg.com/736x/27/a2/ea/27a2ea0fdef3b4078523deb4dfca5c5b.jpg",
+      "synopsis": "Spongebob Squarepants lives under the sea in Bikini Bottom and embarks on comical adventures with his friends. From jellyfishing to working at the Krusty Krab, Spongebob’s life is full of wacky surprises.",
+      "rentPrice": "1.99",
+      "buyPrice": "7.99"
+    },
+    {
+      "id": 4,
+      "title": "Money Heist",
+      "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16764740_b_v13_aa.jpg",
+      "landscapePoster": "https://wallpapers.com/images/featured/money-heist-poster-i0hmaz980kt99l31.jpg",
+      "synopsis": "A master thief leads a group of criminals in a heist on the Royal Mint of Spain, planning to print billions of euros. As their heist unfolds, they face unexpected challenges that test their resolve.",
+      "rentPrice": "2.99",
+      "buyPrice": "9.99"
+    },
+    {
+      "id": 5,
+      "title": "Adventure Time",
+      "poster": "https://i.ebayimg.com/images/g/jf0AAOSwN4xjUx24/s-l1200.jpg",
+      "landscapePoster": "https://images8.alphacoders.com/442/thumb-1920-442432.jpg",
+      "synopsis": "Join Finn the human and Jake the dog as they embark on wild adventures in the post-apocalyptic world of Ooo. With quirky humor and strange characters, their journey is full of fun and excitement.",
+      "rentPrice": "1.99",
+      "buyPrice": "7.99"
+    },
+    {
+      "id": 6,
+      "title": "Breaking Bad",
+      "poster": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "landscapePoster": "https://nofilmschool.com/media-library/bbcenterfinal.jpg?id=34073167&width=1245&height=700&quality=90&coordinates=0%2C0%2C0%2C0",
+      "synopsis": "A high school chemistry teacher turned meth kingpin struggles with morality as he enters the criminal underworld. The tension between his dual lives creates a thrilling, intense series.",
+      "rentPrice": "3.49",
+      "buyPrice": "12.99"
+    },
+    {
+      "id": 7,
+      "title": "The Office",
+      "poster": "https://image.tmdb.org/t/p/w500/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg",
+      "landscapePoster": "https://wallpapers.com/images/featured/the-office-background-uyvgr8615jytjzn8.jpg",
+      "synopsis": "A mockumentary-style sitcom following the everyday lives of office workers in Scranton, Pennsylvania. Filled with quirky humor, relatable characters, and workplace dynamics.",
+      "rentPrice": "2.49",
+      "buyPrice": "9.99"
+    },
+    {
+      "id": 8,
+      "title": "Loki",
+      "poster": "https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "landscapePoster": "https://w0.peakpx.com/wallpaper/333/62/HD-wallpaper-loki-with-background-of-stars-and-clouds-loki.jpg",
+      "synopsis": "The God of Mischief, Loki, embarks on an unpredictable journey through time, unraveling the mystery of his place in the multiverse and facing challenges from alternate versions of himself.",
+      "rentPrice": "2.99",
+      "buyPrice": "9.99"
+    },
+    {
+      "id": 9,
+      "title": "Stranger Things",
+      "poster": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "landscapePoster": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16684697/st11.jpg?quality=90&strip=all&crop=12.5%2C0%2C75%2C100&w=2400",
+      "synopsis": "A group of kids uncover a supernatural mystery in their small town, facing terrifying creatures from another dimension and unraveling dark secrets.",
+      "rentPrice": "3.49",
+      "buyPrice": "12.99"
+    },
+    {
+      "id": 10,
+      "title": "The Mandalorian",
+      "poster": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+      "landscapePoster": "https://lumiere-a.akamaihd.net/v1/images/5d5fe9394335840001375adf-image_c79fb57f.jpeg?region=0,0,1536,864",
+      "synopsis": "A lone bounty hunter travels across the galaxy on thrilling adventures, uncovering secrets and forming unlikely alliances in the Star Wars universe.",
+      "rentPrice": "2.99",
+      "buyPrice": "9.99"
+    }
+  ]
+}

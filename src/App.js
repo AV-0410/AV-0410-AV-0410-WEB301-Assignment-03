@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import HomePage from './pages/HomePage';
+import ListPage from './pages/ListPage';
+import DetailsPage from './pages/DetailsPage'; // Import the details page
+import RegistrationPage from './pages/RegistrationPage'; // Import the registration page
+import LoginPage from './pages/LoginPage'; // Import the login page
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/list" element={<ListPage />} />
+        <Route path="/details/:type/:id" element={<DetailsPage />} /> {/* Dynamic route */}
+        <Route path="/register" element={<RegistrationPage />} /> {/* Registration route */}
+        <Route path="/login" element={<LoginPage />} /> {/* Login route */}
+      </Routes>
+    </Router>
   );
 }
 
