@@ -92,7 +92,7 @@ function HeroSlider() {
           borderRadius: '50%',
         }}
       >
-        ‹ {/* Left arrow symbol for previous slide */}
+        ‹{/* Left arrow symbol for previous slide */}
       </button>
 
       {/* Right Navigation Button (Next Slide) */}
